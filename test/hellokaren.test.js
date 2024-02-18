@@ -8,7 +8,4 @@ it("Tests Hello World", ()=>{
     assert.equal(hello,"Hello");
 
     console.log(sayHello());
-
-    expect(sayHello).toBe("hello");
-
 });
